@@ -77,7 +77,3 @@ The goal is to understand sales trends, product performance, and customer behavi
 
 ## 🚀 Conclusion
 This project demonstrates the complete data analysis workflow — from data understanding and SQL-based analysis to building an interactive Tableau dashboard.
-
---- 
-Aspiring Data Analyst  
-Skills: SQL | Excel | Tableau
